@@ -3,17 +3,17 @@ Contributing Guidelines
 Thank you for your interest in contributing to our project! We welcome contributions from everyone. By participating in this project, you agree to abide by the following guidelines:
 
 Code of Conduct:
-Please review and adhere to our Code of Conduct, which establishes a welcoming and inclusive environment for all contributors. 
+Please review and adhere to our Code of Conduct, which establishes a welcoming and inclusive environment for all contributors.
 
 Types of Contributions:
 We welcome different types of contributions, including but not limited to:
 
-- Bug fixes
-- New features or enhancements
-- Documentation improvements
-- Test cases
-- Translations
-- Feedback and suggestions
+-   Bug fixes
+-   New features or enhancements
+-   Documentation improvements
+-   Test cases
+-   Translations
+-   Feedback and suggestions
 
 Getting Started:
 To get started with contributing, follow these steps:
@@ -40,4 +40,3 @@ Community Feedback:
 We value feedback and suggestions from the community. Join our discussion forums, participate in conversations, and share your ideas for improving the project.
 
 Thank you for your contributions and for helping make this project better!
-

@@ -2,36 +2,36 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I am a 5th/final year Computer Science Co-op student at Toronto Metropolitan University (TMU) who is passionate about using technology for good. I have experience with Python, DBMS, Java, Kotlin, Elixir, and other programming languages as a result of my academic studies and work in various positions with an emphasis on software development. I'm eager to put my abilities to use on real-world projects and exciting roles. Let's connect and discover the limitless possibilities technology has to offer!",
+		keywords: ["Osanyem", "Osanyem O", "Osanyem Osadebe"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I am a 5th/final year Computer Science Co-op student at Toronto Metropolitan University (TMU) who is passionate about using technology for good. I have experience with Python, DBMS, Java, Kotlin, Elixir, and other programming languages as a result of my academic studies and work in various positions with an emphasis on software development. I'm eager to put my abilities to use on real-world projects and exciting roles. Let's connect and discover the limitless possibilities technology has to offer!",
+		keywords: ["Osanyem", "Osanyem O", "Osanyem Osadebe"],
 	},
 
-	{
-		page: "articles",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
+	// {
+	// 	page: "articles",
+	// 	description:
+	// 		"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+	// 	keywords: ["Osanyem", "Osanyem O", "Osanyem Osadebe"],
+	// },
 
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Over the years, I’ve worked on a range of projects, and I’m really proud of how far I’ve come.",
+		keywords: ["Osanyem", "Osanyem O", "Osanyem Osadebe"],
 	},
 
 	{
 		page: "contact",
 		description:
 			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+		keywords: ["Osanyem", "Osanyem O", "Osanyem Osadebe"],
 	},
 ];
 

@@ -1,30 +1,30 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Osanyem Osadebe",
+		name: "Osanyem Osadebe",
+		email: "osanyemo@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		// twitter: "https://twitter.com/",
+		github: "https://github.com/Osanyem",
+		linkedin: "https://www.linkedin.com/in/osanyemosadebe/",
+		// instagram: "https://instagram.com/",
+		// stackoverflow: "https://stackoverflow.com/",
+		// facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Software Engineer, tech enthusiast, and amateur gamer.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a 5th/final year Computer Science Co-op student at Toronto Metropolitan University (TMU) who is passionate about using technology for good. I have experience with Python, DBMS, Java, Kotlin, Elixir, and other programming languages as a result of my academic studies and work in various positions with an emphasis on software development. I'm eager to put my abilities to use on real-world projects and exciting roles. Let's connect and discover the limitless possibilities technology has to offer!",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Hi! I'm Osanyem. I live in Toronto, Ontario.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Over the years, I’ve worked on a range of projects, and I’m really proud of how far I’ve come. If you’re curious about any of them, feel free to check out the code and suggest any improvements or ideas you might have. I believe collaboration is a great way to learn and grow, so I’m always open to feedback and new perspectives.",
 	},
 
 	articles: {
