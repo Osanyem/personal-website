@@ -34,6 +34,14 @@ const INFO = {
 	},
 
 	projects: [
+		{
+			title: "Personal Website",
+			description:
+				"Personal website to tell people a bit more about myself and what I do. Built using React.js and hosted on Netlify. If you're here then you already found it 😃, take a look around. You can find the source code on my github profile",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://osanyemo.com/",
+		},
 		// {
 		// 	title: "Project 1",
 		// 	description:
