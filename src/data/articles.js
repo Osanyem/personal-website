@@ -39,27 +39,6 @@
 // 	};
 // }
 
-// function article_2() {
-// 	return {
-// 		date: "7 May 2023",
-// 		title: "Artificial Intelligence in Healthcare",
-// 		description:
-// 			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
-// 		style: ``,
-// 		keywords: [
-// 			"Artificial Intelligence in Healthcare",
-// 			"Osanyem",
-// 			"Osanyem O",
-// 			"Osanyem Osadebe",
-// 		],
-// 		body: (
-// 			<React.Fragment>
-// 				<h1>Content of article 2</h1>
-// 			</React.Fragment>
-// 		),
-// 	};
-// }
-
 const myArticles = []; // Add articles to list if you need to return any.
 
 export default myArticles;

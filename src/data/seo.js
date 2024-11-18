@@ -19,6 +19,12 @@ const SEO = [
 	// 		"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
 	// 	keywords: ["Osanyem", "Osanyem O", "Osanyem Osadebe"],
 	// },
+		{
+		page: "resume",
+		description:
+			"View my resume",
+		keywords: ["Osanyem", "Osanyem O", "Osanyem Osadebe"],
+	},
 
 	{
 		page: "projects",
