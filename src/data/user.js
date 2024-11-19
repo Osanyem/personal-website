@@ -34,8 +34,10 @@ const INFO = {
 			title: "Personal Website",
 			description:
 				"Personal website to tell people a bit more about myself and what I do. Built using React.js and hosted on Netlify. If you're here then you already found it 😃, take a look around. You can find the source code on my github profile.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			frameworkLogo: "https://static.cdnlogo.com/logos/r/85/react.svg",
+			logos: [
+				"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"https://static.cdnlogo.com/logos/r/85/react.svg"
+			],
 			linkText: "View Project",
 			liveLink: "https://osanyemo.com/",
 			sourceCodeLink: "https://github.com/Osanyem/personal-website",
@@ -44,12 +46,52 @@ const INFO = {
 			title: "Slap (Learning Management System)",
 			description:
 				"Developed a learning management system backend using Java and Spring Boot, creating a REST API to manage users and courses. Implemented advanced features including Spring Security for authentication, Spring Data JPA for efficient database interactions, and PostgreSQL for secure data storage and retrieval.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
-			frameworkLogo: "https://static.cdnlogo.com/logos/s/91/spring.svg",
+			logos: [
+				"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
+				"https://static.cdnlogo.com/logos/s/91/spring.svg"
+			],
 			linkText: "View Project",
 			liveLink: "",
 			sourceCodeLink: "https://github.com/Osanyem/slap-backend",
 		},
+		{
+			title: "Bingo Game",
+			description:
+				"Developed a single-player bingo game in C, utilizing linked lists with structures and pointers to manage dynamic game logic efficiently. Automated the build process with a custom makefile, ensuring streamlined compilation and deployment.",
+			logos: [
+				"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"
+			],
+			linkText: "View Project",
+			liveLink: "",
+			sourceCodeLink: "https://github.com/Osanyem/Bingo",
+		},
+		{
+			title: "Real Estate Marketplace",
+			description:
+				"Developed a dynamic and responsive website for listing, renting, and buying real estate. Built using HTML, JavaScript, PHP, JSON, and SQL, with a focus on seamless user experience. The project includes complete source code, including Bootstrap and JavaScript files, as well as SQL queries for database setup.",
+			logos: [
+				"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			],
+			linkText: "View Project",
+			liveLink: "",
+			sourceCodeLink: "https://github.com/Osanyem/Citi-Estate",
+		},
+		{
+			title: "War Card Game (iOS)",
+			description:
+				"A single-player War Card iOS game developed as a personal project to practice Swift programming and iOS application development. The project includes complete source code, along with assets used in the application.",
+			logos: [
+				"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png"
+			],
+			linkText: "View Project",
+			liveLink: "",
+			sourceCodeLink: "https://github.com/Osanyem/War-Card-Game", // Assuming you'll host it on GitHub
+		}
+		
+		
+		
+		
 	],
 };
 
