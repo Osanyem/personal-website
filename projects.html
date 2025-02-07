@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/testerstyles.css" />
+    <title>Projects | Osanyem O.</title>
+    <style>
+      .projects-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+        align-items: start;
+      }
+
+      .project-card {
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 400px;
+      }
+
+      .project-card .description {
+        flex-grow: 1;
+      }
+
+      .project-card .links {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: auto;
+      }
+
+      .project-card a {
+        display: inline-block;
+        padding: 10px 15px;
+        text-decoration: none;
+        border-radius: 4px;
+        white-space: nowrap;
+      }
+
+      .project-card a:hover {
+        text-decoration: underline;
+      }
+
+      @media (max-width: 600px) {
+        .projects-container {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="div-container">
+      <div class="div-header">
+        <img src="/static/headshot.png" alt="Profile Photo of Osanyem" />
+        <h1>Osanyem Osadebe</h1>
+        <nav>
+          <a href="index.html">Home</a>
+          <a href="projects.html">Projects</a>
+          <a href="resume.html">Resume</a>
+        </nav>
+      </div>
+      <div class="div-body">
+        <h1 style="text-align: left">Personal Projects</h1>
+        <div class="projects-container">
+          <div class="project-card">
+            <h3>Personal Website</h3>
+            <p class="technologies">Technologies: HTML, JavaScript</p>
+            <p class="description">
+              Personal website to tell people a bit more about myself and what I
+              do. Built using HTML, JavaScript and hosted on Netlify. You can
+              find the source code on my GitHub profile.
+            </p>
+            <div class="links">
+              <a href="https://osanyemo.com/" target="_blank"
+                >View Live Project</a
+              >
+              <a
+                href="https://github.com/Osanyem/personal-website"
+                target="_blank"
+                >Source Code (GitHub)</a
+              >
+            </div>
+          </div>
+          <div class="project-card">
+            <h3>Slap (Learning Management System)</h3>
+            <p class="technologies">
+              Technologies: Java, Spring Boot, PostgreSQL
+            </p>
+            <p class="description">
+              Developed a learning management system backend using Java and
+              Spring Boot, implementing Spring Security for authentication and
+              PostgreSQL for data storage.
+            </p>
+            <div class="links">
+              <a href="https://github.com/Osanyem/slap-backend" target="_blank"
+                >Source Code (GitHub)</a
+              >
+            </div>
+          </div>
+          <div class="project-card">
+            <h3>Bingo Game</h3>
+            <p class="technologies">Technologies: C, Makefile</p>
+            <p class="description">
+              Developed a single-player bingo game in C, utilizing linked lists
+              with structures and pointers to manage dynamic game logic
+              efficiently.
+            </p>
+            <div class="links">
+              <a href="https://github.com/Osanyem/Bingo" target="_blank"
+                >Source Code (GitHub)</a
+              >
+            </div>
+          </div>
+          <div class="project-card">
+            <h3>Real Estate Marketplace</h3>
+            <p class="technologies">Technologies: HTML, JavaScript, PHP, SQL</p>
+            <p class="description">
+              Developed a dynamic and responsive website for listing, renting,
+              and buying real estate. Built using HTML, JavaScript, PHP, JSON,
+              and SQL.
+            </p>
+            <div class="links">
+              <a href="https://github.com/Osanyem/Citi-Estate" target="_blank"
+                >Source Code (GitHub)</a
+              >
+            </div>
+          </div>
+          <div class="project-card">
+            <h3>War Card Game (iOS)</h3>
+            <p class="technologies">Technologies: Swift, iOS</p>
+            <p class="description">
+              A single-player War Card iOS game developed as a personal project
+              to practice Swift programming and iOS application development.
+            </p>
+            <div class="links">
+              <a href="https://github.com/Osanyem/War-Card-Game" target="_blank"
+                >Source Code (GitHub)</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
