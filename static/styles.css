@@ -74,3 +74,15 @@ iframe {
   outline: none;
 }
 
+/* Make iframe height responsive */
+@media (max-width: 768px) {
+  .resume-container {
+    height: 800px;
+  }
+}
+
+@media (max-width: 480px) {
+  .resume-container {
+    height: 600px;
+  }
+}
